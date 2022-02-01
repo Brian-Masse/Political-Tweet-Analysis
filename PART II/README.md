@@ -1,6 +1,5 @@
 # **NATASHA AND BRIAN**
-
-## **Misleading Graphs**
+## **Group Work III: Misleading Graphs**
 
 The "Second Visualization" files contain all the information of this project. It explains our process, has the code and the final visualizations, and links to both our transformed data, as well as the orginal source, (both of which can also be found in this folder)
 
